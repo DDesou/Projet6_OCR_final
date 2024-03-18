@@ -1,2 +1,3 @@
-# Projet6_OCR_final
-Here is the repos of my project6 (OpenClassRooms)
+# OCR_Project6 (D. Desoubzdanne-Dumont le 06/06/2023)
+"Classifiez automatiquement des biens de consommation"
+## Projet OpenClassroom parcours Data Scientist
